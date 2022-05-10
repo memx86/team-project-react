@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad39a884.css",
+    "main.css": "/static/css/main.7104b75b.css",
     "main.js": "/static/js/main.a68b14f8.js",
     "static/media/Raleway-Regular.ttf": "/static/media/Raleway-Regular.9ade142e81dd8d55cd32.ttf",
     "static/media/Raleway-Bold.ttf": "/static/media/Raleway-Bold.d1a96e2aa6257c864d4d.ttf",
     "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
     "index.html": "/index.html",
-    "main.ad39a884.css.map": "/static/css/main.ad39a884.css.map",
+    "main.7104b75b.css.map": "/static/css/main.7104b75b.css.map",
     "main.a68b14f8.js.map": "/static/js/main.a68b14f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad39a884.css",
+    "static/css/main.7104b75b.css",
     "static/js/main.a68b14f8.js"
   ]
 }
