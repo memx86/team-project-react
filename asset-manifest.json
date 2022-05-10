@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/memx86-team-project-wallet.netlify.app/static/css/main.88f73e40.css",
-    "main.js": "/memx86-team-project-wallet.netlify.app/static/js/main.28ba4bd3.js",
+    "main.css": "/memx86-team-project-wallet.netlify.app/static/css/main.a8a9787f.css",
+    "main.js": "/memx86-team-project-wallet.netlify.app/static/js/main.a68b14f8.js",
     "static/media/Raleway-Regular.ttf": "/memx86-team-project-wallet.netlify.app/static/media/Raleway-Regular.9ade142e81dd8d55cd32.ttf",
     "static/media/Raleway-Bold.ttf": "/memx86-team-project-wallet.netlify.app/static/media/Raleway-Bold.d1a96e2aa6257c864d4d.ttf",
     "static/media/Poppins-Regular.ttf": "/memx86-team-project-wallet.netlify.app/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/Poppins-Bold.ttf": "/memx86-team-project-wallet.netlify.app/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
     "index.html": "/memx86-team-project-wallet.netlify.app/index.html",
-    "main.88f73e40.css.map": "/memx86-team-project-wallet.netlify.app/static/css/main.88f73e40.css.map",
-    "main.28ba4bd3.js.map": "/memx86-team-project-wallet.netlify.app/static/js/main.28ba4bd3.js.map"
+    "main.a8a9787f.css.map": "/memx86-team-project-wallet.netlify.app/static/css/main.a8a9787f.css.map",
+    "main.a68b14f8.js.map": "/memx86-team-project-wallet.netlify.app/static/js/main.a68b14f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.88f73e40.css",
-    "static/js/main.28ba4bd3.js"
+    "static/css/main.a8a9787f.css",
+    "static/js/main.a68b14f8.js"
   ]
 }
