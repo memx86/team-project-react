@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ab90bbc.css",
-    "main.js": "/static/js/main.05473a79.js",
+    "main.css": "/static/css/main.7bc96efb.css",
+    "main.js": "/static/js/main.f1caf9fa.js",
     "static/media/Raleway-Regular.ttf": "/static/media/Raleway-Regular.9ade142e81dd8d55cd32.ttf",
     "static/media/Raleway-Bold.ttf": "/static/media/Raleway-Bold.d1a96e2aa6257c864d4d.ttf",
     "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/vector-desk-2x.webp": "/static/media/vector-desk-2x.200b5fb06b4ed9295073.webp",
+    "static/media/vector-tab-2x.webp": "/static/media/vector-tab-2x.dd531c08eef21d6b2747.webp",
+    "static/media/vector-mb-2x.webp": "/static/media/vector-mb-2x.03ef7372b51609775e81.webp",
+    "static/media/vector-desk-1x.webp": "/static/media/vector-desk-1x.5fbce1ce66aef7383eb6.webp",
+    "static/media/vector-tab-1x.webp": "/static/media/vector-tab-1x.6946b6c7bccfe2f22cc1.webp",
+    "static/media/vector-mb-1x.webp": "/static/media/vector-mb-1x.657892072e87e595735a.webp",
     "static/media/logo.svg": "/static/media/logo.d7adee0ab11608d013165fe6f2dc76e8.svg",
     "index.html": "/index.html",
-    "main.3ab90bbc.css.map": "/static/css/main.3ab90bbc.css.map",
-    "main.05473a79.js.map": "/static/js/main.05473a79.js.map"
+    "main.7bc96efb.css.map": "/static/css/main.7bc96efb.css.map",
+    "main.f1caf9fa.js.map": "/static/js/main.f1caf9fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ab90bbc.css",
-    "static/js/main.05473a79.js"
+    "static/css/main.7bc96efb.css",
+    "static/js/main.f1caf9fa.js"
   ]
 }
