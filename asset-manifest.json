@@ -1,25 +1,42 @@
 {
   "files": {
-    "main.css": "/static/css/main.fdee57d6.css",
-    "main.js": "/static/js/main.5b133320.js",
+    "main.css": "/static/css/main.cd296c1a.css",
+    "main.js": "/static/js/main.63e4f0b2.js",
     "static/media/Raleway-Regular.ttf": "/static/media/Raleway-Regular.9ade142e81dd8d55cd32.ttf",
     "static/media/Raleway-Bold.ttf": "/static/media/Raleway-Bold.d1a96e2aa6257c864d4d.ttf",
     "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/frame-tab-2x.png": "/static/media/frame-tab-2x.68383de63dea12907c36.png",
+    "static/media/frame-desk-2x.png": "/static/media/frame-desk-2x.1be089068ddb0c090a5f.png",
+    "static/media/frame-desk-2x.webp": "/static/media/frame-desk-2x.1c52b7c5dc1d3d185c7d.webp",
+    "static/media/frame-tab-2x.webp": "/static/media/frame-tab-2x.3624e82137c234d19b77.webp",
+    "static/media/frame-desk-1x.png": "/static/media/frame-desk-1x.35493839a254531f97c0.png",
     "static/media/vector-desk-2x.webp": "/static/media/vector-desk-2x.200b5fb06b4ed9295073.webp",
+    "static/media/ellipse-bottom-tab-2x.png": "/static/media/ellipse-bottom-tab-2x.f157e15b12ee04b853a0.png",
+    "static/media/ellipse-top-tab-2x.png": "/static/media/ellipse-top-tab-2x.5aabbfa1e38104166736.png",
     "static/media/vector-tab-2x.webp": "/static/media/vector-tab-2x.dd531c08eef21d6b2747.webp",
     "static/media/vector-mb-2x.webp": "/static/media/vector-mb-2x.03ef7372b51609775e81.webp",
+    "static/media/frame-tab-1x.png": "/static/media/frame-tab-1x.c272b282de43f945a6cc.png",
+    "static/media/frame-tab-1x.webp": "/static/media/frame-tab-1x.f060ff7f7b436c756cde.webp",
     "static/media/vector-desk-1x.webp": "/static/media/vector-desk-1x.5fbce1ce66aef7383eb6.webp",
     "static/media/vector-tab-1x.webp": "/static/media/vector-tab-1x.6946b6c7bccfe2f22cc1.webp",
+    "static/media/ellipse-top-desk-2x.webp": "/static/media/ellipse-top-desk-2x.eed75a98df57fd8ddd2e.webp",
     "static/media/sprite.svg": "/static/media/sprite.e8d32843901e34acd1fc5840087cf3f0.svg",
     "static/media/vector-mb-1x.webp": "/static/media/vector-mb-1x.657892072e87e595735a.webp",
+    "static/media/ellipse-bottom-desk-2x.webp": "/static/media/ellipse-bottom-desk-2x.6ca3fca91e54c2124b53.webp",
+    "static/media/ellipse-bottom-tab-2x.webp": "/static/media/ellipse-bottom-tab-2x.dd657c9567181eb48641.webp",
+    "static/media/ellipse-top-tab-2x.webp": "/static/media/ellipse-top-tab-2x.306496d768d20dce624c.webp",
+    "static/media/ellipse-top-desk-1x.webp": "/static/media/ellipse-top-desk-1x.15f583b55baa4ee8e646.webp",
     "static/media/logo.svg": "/static/media/logo.d7adee0ab11608d013165fe6f2dc76e8.svg",
+    "static/media/ellipse-bottom-desk-1x.webp": "/static/media/ellipse-bottom-desk-1x.dbf54d1e297db60ff19a.webp",
+    "static/media/ellipse-bottom-tab-1x.webp": "/static/media/ellipse-bottom-tab-1x.6a5ed4817fe0ff3c3196.webp",
+    "static/media/ellipse-top-tab-1x.webp": "/static/media/ellipse-top-tab-1x.206de0c3357884f68e50.webp",
     "index.html": "/index.html",
-    "main.fdee57d6.css.map": "/static/css/main.fdee57d6.css.map",
-    "main.5b133320.js.map": "/static/js/main.5b133320.js.map"
+    "main.cd296c1a.css.map": "/static/css/main.cd296c1a.css.map",
+    "main.63e4f0b2.js.map": "/static/js/main.63e4f0b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdee57d6.css",
-    "static/js/main.5b133320.js"
+    "static/css/main.cd296c1a.css",
+    "static/js/main.63e4f0b2.js"
   ]
 }
