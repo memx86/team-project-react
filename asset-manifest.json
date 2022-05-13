@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b71bb1e0.css",
-    "main.js": "/static/js/main.33edf226.js",
+    "main.css": "/static/css/main.3e4938c3.css",
+    "main.js": "/static/js/main.ca0f3447.js",
     "static/media/Raleway-Regular.ttf": "/static/media/Raleway-Regular.9ade142e81dd8d55cd32.ttf",
     "static/media/Raleway-Bold.ttf": "/static/media/Raleway-Bold.d1a96e2aa6257c864d4d.ttf",
     "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
@@ -33,11 +33,11 @@
     "static/media/ellipse-bottom-tab-1x.webp": "/static/media/ellipse-bottom-tab-1x.6a5ed4817fe0ff3c3196.webp",
     "static/media/ellipse-top-tab-1x.webp": "/static/media/ellipse-top-tab-1x.206de0c3357884f68e50.webp",
     "index.html": "/index.html",
-    "main.b71bb1e0.css.map": "/static/css/main.b71bb1e0.css.map",
-    "main.33edf226.js.map": "/static/js/main.33edf226.js.map"
+    "main.3e4938c3.css.map": "/static/css/main.3e4938c3.css.map",
+    "main.ca0f3447.js.map": "/static/js/main.ca0f3447.js.map"
   },
   "entrypoints": [
-    "static/css/main.b71bb1e0.css",
-    "static/js/main.33edf226.js"
+    "static/css/main.3e4938c3.css",
+    "static/js/main.ca0f3447.js"
   ]
 }
