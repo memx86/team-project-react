@@ -1,0 +1,269 @@
+.btn {
+    border-radius: 50%;
+    background-color: var(--accept-cl);
+    width: 44px;
+    height: 44px;
+    color: var(--main-bg-cl);
+    box-shadow: 0px 6px 15px rgba(36, 204, 167, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 5;
+}
+
+.title {
+    font-size: 24px;
+    line-height: 45px;
+}
+
+.closeBtn {
+    position: absolute;
+    display: none;
+    top: 20px;
+    right: 20px;
+    width: 16px;
+    height: 16px;
+}
+
+.btnWrap {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.cancelBtn,
+.acceptBtn {
+    width: 100%;
+    height: 50px;
+    font-family: var(--accept-cl);
+    border-radius: 20px;
+    display: block;
+    padding: 13px 20px;
+    box-sizing: border-box;
+}
+
+.acceptBtn {
+    background: var(--accept-cl);
+    border: none;
+    color: var(--main-bg-cl);
+    margin-bottom: 20px;
+}
+
+.cancelBtn {
+    background: var(--main-bg-cl);
+    border: 1px solid var(--household-cl);
+    color: var(--household-cl);
+}
+
+.checkboxWrap {
+    width: 220px;
+    margin: 20px auto 30px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkboxWrap .incomes,
+.checkboxWrap .outcomes {
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--faded-secondary-cl);
+    position: relative;
+    left: -20px;
+}
+
+.checkboxWrap .outcomes {
+    left: 25px;
+}
+
+.checkboxWrap .incomesActive {
+    color: var(--accept-cl);
+}
+
+.checkboxWrap .outcomesActive {
+    color: var(--reject-cl);
+}
+
+.knobs,
+.layer {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.button {
+    position: relative;
+    width: 80px;
+    height: 40px;
+    border: 1px solid var(--faded-secondary-cl);
+    border-radius: 30px;
+}
+
+.button.r,
+.button.r .layer {
+    border-radius: 100px;
+}
+
+.checkbox {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    opacity: 0;
+    cursor: pointer;
+    z-index: 3;
+}
+
+.knobs {
+    z-index: 2;
+}
+
+.layer {
+    width: 100%;
+    transition: 0.3s ease all;
+    z-index: 1;
+}
+
+.knobs:before {
+    content: '';
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: -4px;
+    left: 42px;
+    background-color: var(--reject-cl);
+    box-shadow: 0px 6px 15px rgba(255, 101, 150, 0.5);
+    color: #fff;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50%;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+    padding: 9px 4px;
+    transition: 0.5s cubic-bezier(0.18, 0.89, 0.35, 1.15) all;
+}
+
+.knobsTransactions:before {
+    background-image: url('../../images/outcomes.svg');
+}
+
+.checkbox:checked+.knobs:before {
+    content: '';
+    left: -4px;
+    background-color: var(--accept-cl);
+    box-shadow: 0px 6px 15px rgba(36, 204, 167, 0.5);
+}
+
+.checkbox:checked+.knobsTransactions:before {
+    background-image: url('../../images/+.svg');
+}
+
+.knobs,
+.knobs:before,
+.layer {
+    transition: 0.5s ease all;
+}
+
+.sumAndDateWrap {
+    width: 100%;
+    margin: 30px auto;
+}
+
+.sumInput {
+    color: var(--main-text-cl);
+}
+
+.sumInput[placeholder] {
+    width: 100%;
+    margin-bottom: 32px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.commentInput {
+    width: 100%;
+    padding: 4px 8px;
+    margin-bottom: 30px;
+    font-weight: 400;
+    color: var(--main-text-cl);
+}
+
+.newCategory {
+    width: 100%;
+    margin-bottom: 40px;
+    padding: 0 10px;
+}
+
+.newCategory[placeholder] {
+    text-align: left;
+}
+
+.newCategoryBtn {
+    position: absolute;
+    width: 24px;
+    margin-left: -30px;
+    height: 24px;
+    background: var(--accept-cl);
+    border-radius: 50%;
+    border: transparent;
+    background-image: url('../../images/+.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50%;
+    box-shadow: 0px 6px 15px rgba(36, 204, 167, 0.5);
+}
+
+@media screen and (min-width: 480px) {
+    .closeBtn {
+        display: flex;
+    }
+    .title {
+        font-size: 30px;
+    }
+    .sumAndDateWrap {
+        width: 380px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .sumInput[placeholder],
+    .datetime {
+        width: 170px;
+    }
+    .sumInput[placeholder] {
+        margin-bottom: 0;
+    }
+    .btnWrap {
+        width: 300px;
+    }
+}
+
+@media screen and (min-width: 480px) {
+    .closeBtn {
+        display: flex;
+    }
+    .title {
+        font-size: 30px;
+    }
+    .sumAndDateWrap {
+        width: 380px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .sumInput[placeholder],
+    .datetime {
+        width: 170px;
+    }
+    .sumInput[placeholder] {
+        margin-bottom: 0;
+    }
+    .btnWrap {
+        width: 300px;
+    }
+}
