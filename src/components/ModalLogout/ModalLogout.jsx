@@ -1,4 +1,4 @@
-import s from "./ModalLogout.module.scss";
+//import s from "./ModalLogout.module.scss";
 
 const ModalLogout = () => {
   return <div>ModalLogout</div>;
