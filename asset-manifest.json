@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.7cdcff16.css",
+    "main.css": "/static/css/main.adb70424.css",
     "main.js": "/static/js/main.cc3562d9.js",
-    "static/media/Raleway-Regular.ttf": "/static/media/Raleway-Regular.9ade142e81dd8d55cd32.ttf",
-    "static/media/Raleway-Bold.ttf": "/static/media/Raleway-Bold.d1a96e2aa6257c864d4d.ttf",
+    "static/media/Circe-Regular.ttf": "/static/media/Circe-Regular.814e4dd4329ffdb6c9ed.ttf",
+    "static/media/Circe-Bold.ttf": "/static/media/Circe-Bold.63396ee791f60623acbf.ttf",
     "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
     "static/media/frame-tab-2x.png": "/static/media/frame-tab-2x.fe9e9bdc4b9bb26fdb3b.png",
@@ -32,11 +32,11 @@
     "static/media/ellipse-bottom-tab-1x.webp": "/static/media/ellipse-bottom-tab-1x.6a5ed4817fe0ff3c3196.webp",
     "static/media/ellipse-top-tab-1x.webp": "/static/media/ellipse-top-tab-1x.206de0c3357884f68e50.webp",
     "index.html": "/index.html",
-    "main.7cdcff16.css.map": "/static/css/main.7cdcff16.css.map",
+    "main.adb70424.css.map": "/static/css/main.adb70424.css.map",
     "main.cc3562d9.js.map": "/static/js/main.cc3562d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cdcff16.css",
+    "static/css/main.adb70424.css",
     "static/js/main.cc3562d9.js"
   ]
 }
