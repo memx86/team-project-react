@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc185093.css",
-    "main.js": "/static/js/main.c990b56d.js",
+    "main.css": "/static/css/main.8240a691.css",
+    "main.js": "/static/js/main.25e8d47e.js",
     "static/media/Circe-Regular.ttf": "/static/media/Circe-Regular.814e4dd4329ffdb6c9ed.ttf",
     "static/media/Circe-Bold.ttf": "/static/media/Circe-Bold.63396ee791f60623acbf.ttf",
     "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
@@ -13,9 +13,11 @@
     "static/media/frame-desk-1x.png": "/static/media/frame-desk-1x.a0b610a9a46d209480ae.png",
     "static/media/vector-desk-2x.webp": "/static/media/vector-desk-2x.200b5fb06b4ed9295073.webp",
     "static/media/frame-desk-1x.webp": "/static/media/frame-desk-1x.a9dd74189c3cacbfb600.webp",
+    "static/media/english.png": "/static/media/english.5233f022a8dc343f8a06.png",
     "static/media/ellipse-bottom-tab-2x.png": "/static/media/ellipse-bottom-tab-2x.f157e15b12ee04b853a0.png",
     "static/media/ellipse-top-tab-2x.png": "/static/media/ellipse-top-tab-2x.5aabbfa1e38104166736.png",
     "static/media/vector-tab-2x.webp": "/static/media/vector-tab-2x.dd531c08eef21d6b2747.webp",
+    "static/media/ukrainian.png": "/static/media/ukrainian.b99561eace68e0f20b23.png",
     "static/media/vector-mb-2x.webp": "/static/media/vector-mb-2x.03ef7372b51609775e81.webp",
     "static/media/frame-tab-1x.png": "/static/media/frame-tab-1x.c272b282de43f945a6cc.png",
     "static/media/frame-tab-1x.webp": "/static/media/frame-tab-1x.6424aa18015bff98b782.webp",
@@ -32,11 +34,12 @@
     "static/media/ellipse-bottom-tab-1x.webp": "/static/media/ellipse-bottom-tab-1x.6a5ed4817fe0ff3c3196.webp",
     "static/media/ellipse-top-tab-1x.webp": "/static/media/ellipse-top-tab-1x.206de0c3357884f68e50.webp",
     "index.html": "/index.html",
-    "main.bc185093.css.map": "/static/css/main.bc185093.css.map",
-    "main.c990b56d.js.map": "/static/js/main.c990b56d.js.map"
+    "static/media/getFetch.cjs": "/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.8240a691.css.map": "/static/css/main.8240a691.css.map",
+    "main.25e8d47e.js.map": "/static/js/main.25e8d47e.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc185093.css",
-    "static/js/main.c990b56d.js"
+    "static/css/main.8240a691.css",
+    "static/js/main.25e8d47e.js"
   ]
 }
